@@ -1,4 +1,5 @@
-# Problem: https://leetcode.com/problems/reverse-integer/submissions/
+# Difficulty: Easy
+# Problem Statement: https://leetcode.com/problems/reverse-integer/submissions/
 
 class Solution:
     def reverse(self, x: int) -> int:
