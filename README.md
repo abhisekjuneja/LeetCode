@@ -6,7 +6,7 @@ A Repository for all of my LeetCode Submissions. Here's a Link to My [LeetCode P
 
 | [Difficulty :: Easy](https://github.com/abhisekjuneja/LeetCode/tree/main/Submissions/Easy) | [Difficulty :: Medium](https://github.com/abhisekjuneja/LeetCode/tree/main/Submissions/Medium) | [Difficulty :: Hard](https://github.com/abhisekjuneja/LeetCode/tree/main/Submissions/Hard) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **183/500**                                                  | **2/1007**                                                   | **0/399**                                                    |
+| **183/500**                                                  | **3/1008**                                                   | **0/399**                                                    |
 
 ### Statistics
 
@@ -19,4 +19,3 @@ A Repository for all of my LeetCode Submissions. Here's a Link to My [LeetCode P
 **Acceptance Rate**: 68.1%
 
 **Last Updated:** 23rd June 2021
-
